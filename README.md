@@ -36,17 +36,17 @@ SmartToolCore.getInstance().init(this);
 # 功能
 接入成功后，App启动时会在页面上显示一个SmartTool的图标悬浮窗。悬浮窗中间显示的数字是当前所有应用消耗内存占用的比例。点击图标即可看到以下功能。
 #### 1.基本信息展示
-![](http://upload-images.jianshu.io/upload_images/1931006-63d10c59194f22d9.gif?imageMogr2/auto-orient/strip)
+![ ](http://upload-images.jianshu.io/upload_images/1931006-63d10c59194f22d9.gif?imageMogr2/auto-orient/strip)
 #### 2.应用内网络请求
-![](http://upload-images.jianshu.io/upload_images/1931006-128bbce43c061191.gif?imageMogr2/auto-orient/strip)
+![ ](http://upload-images.jianshu.io/upload_images/1931006-128bbce43c061191.gif?imageMogr2/auto-orient/strip)
 #### 3.异常信息监控
-![](http://upload-images.jianshu.io/upload_images/1931006-aacad960c1d82f58.gif?imageMogr2/auto-orient/strip)
+![ ](http://upload-images.jianshu.io/upload_images/1931006-aacad960c1d82f58.gif?imageMogr2/auto-orient/strip)
 #### 4.电量信息
-![](http://upload-images.jianshu.io/upload_images/1931006-0d01d2db9e019d83.gif?imageMogr2/auto-orient/strip)
+![ ](http://upload-images.jianshu.io/upload_images/1931006-0d01d2db9e019d83.gif?imageMogr2/auto-orient/strip)
 #### 5.UI慢交互
-![](http://upload-images.jianshu.io/upload_images/1931006-6d001f48b7805a86.gif?imageMogr2/auto-orient/strip)
+![ ](http://upload-images.jianshu.io/upload_images/1931006-6d001f48b7805a86.gif?imageMogr2/auto-orient/strip)
 #### 6.内存信息
-![](http://upload-images.jianshu.io/upload_images/1931006-cff5ca04cbcff3c3.gif?imageMogr2/auto-orient/strip)
+![ ](http://upload-images.jianshu.io/upload_images/1931006-cff5ca04cbcff3c3.gif?imageMogr2/auto-orient/strip)
 
 # 说明
 * 本工具采取了无侵入的方式，除了上述的接入代码，不用写其他任何代码
