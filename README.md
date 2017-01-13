@@ -32,6 +32,10 @@ compile 'com.transfar:smarttoolui:0.9.7'
 ```
 SmartToolCore.getInstance().init(this);
 ```
+有些机型可能需要添加权限
+```
+<uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
+```
 
 # 功能
 接入成功后，App启动时会在页面上显示一个SmartTool的图标悬浮窗。悬浮窗中间显示的数字是当前所有应用消耗内存占用的比例。点击图标即可看到以下功能。
