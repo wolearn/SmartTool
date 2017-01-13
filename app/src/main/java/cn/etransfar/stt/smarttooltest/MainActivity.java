@@ -86,8 +86,7 @@ public class MainActivity extends AppCompatActivity {
             }
 
         });
-        Intent intent = new Intent(MainActivity.this, FloatWindowService.class);
-        startService(intent);
+  
         mBtn_enter.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
