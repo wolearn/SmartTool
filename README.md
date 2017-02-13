@@ -25,20 +25,16 @@ apply plugin: 'wolearn.ajcplugin'
 
 同时引入依赖
 ```
-compile 'com.transfar:smarttoolui:0.9.7'
+compile 'com.transfar:smarttoolui:1.0.0'
 ```
 
 在Application的onCreate()函数中添加启动函数
 ```
 SmartToolCore.getInstance().init(this);
 ```
-有些机型可能需要添加权限
-```
-<uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
-```
 
 # 功能
-接入成功后，App启动时会在页面上显示一个SmartTool的图标悬浮窗。悬浮窗中间显示的数字是当前所有应用消耗内存占用的比例。点击图标即可看到以下功能。
+通知栏显示smarttool入口
 #### 1.基本信息展示
 ![ ](http://upload-images.jianshu.io/upload_images/1931006-63d10c59194f22d9.gif?imageMogr2/auto-orient/strip)
 #### 2.应用内网络请求
