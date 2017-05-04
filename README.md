@@ -72,9 +72,3 @@ SmartToolCore.getInstance().init(this);
 (微信扫一扫)
 ![](http://upload-images.jianshu.io/upload_images/1931006-a94af6d0df05701b.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-# 标题
-****
-* 1
-> jijiji
-* 2
-* 3
